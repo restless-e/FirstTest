@@ -17,6 +17,7 @@ int main()
 	{
 		cout << input[i] << " ";
 	}
+	cout << endl;
 
 	system("pause");
 	return 0;
